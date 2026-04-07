@@ -1,0 +1,5 @@
+tocar música detectar pitch da voz
+
+Tocando música... 
+Pitch detectado: 441 Hz 
+Nota: A4
